@@ -1,10 +1,12 @@
 # **Rutvi Patel**
 
+[Photo Gallery](photo)
 Hello, my name is Rutvi and welcome to my site.
 
 List of Hobbies:
-- sleeping
-- eating 
+* sleeping
+* eating 
+  * mexican 
 
 Favourite Fruits: 
 - Strawberries 
