@@ -1,6 +1,6 @@
 # **Rutvi Patel**
 
-[Photo Gallery](photo)
+[Photo Gallery](photos)
 Hello, my name is Rutvi and welcome to my site.
 
 List of Hobbies:
